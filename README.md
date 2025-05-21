@@ -31,7 +31,7 @@ Minecraft eklentileri geliştiriyorum. Genellikle güzel olacağını düşünd�
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/aysihuniks/NClaim">
-          <img src="https://via.placeholder.com/300x150?text=NClaim+Banner" alt="NClaim Banner" />
+          <img src="nclaim.png" alt="NClaim Banner" />
         </a>
         <br />
         <b><a href="https://github.com/aysihuniks/NClaim">NClaim</a></b>
@@ -40,7 +40,7 @@ Minecraft eklentileri geliştiriyorum. Genellikle güzel olacağını düşünd�
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/aysihuniks/NAPI">
-          <img src="https://via.placeholder.com/300x150?text=NAPI+Banner" alt="NAPI Banner" />
+          <img src="napi.png" alt="NAPI Banner" />
         </a>
         <br />
         <b><a href="https://github.com/aysihuniks/NAPI">NAPI</a></b>
