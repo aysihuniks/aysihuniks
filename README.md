@@ -29,4 +29,4 @@ I develop Minecraft plugins. I usually modernize old systems I find interesting 
 ---
 
 ## 📞 Get in Touch
-- 🍁 [Nesoi](https://discord.gg/nesoi) – Join my **Discord** to chat, get support, or suggest features.
+- 🍁 [Nesoi](https://discord.gg/qcW6YrxwqJ) – Join my **Discord** to chat, get support, or suggest features.
